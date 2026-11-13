@@ -1,0 +1,23 @@
+FarmConnect Image Credits & Attribution
+=======================================
+All photographs in this directory are sourced from Unsplash (https://unsplash.com) under the Unsplash License, granting free irrevocable, nonexclusive worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash.
+
+Photos:
+- hero-farm.jpg: Karsten Würth (Unsplash) - Rolling green agricultural fields
+- auth-farm.jpg: Gabriel Jimenez (Unsplash) - Farmer harvesting soil and organic produce
+- tomatoes.jpg: Erwan Hesry (Unsplash) - Fresh organic vine tomatoes
+- spinach.jpg: Elianna Friedman (Unsplash) - Fresh green spinach leaves
+- mangoes.jpg: Svitlana (Unsplash) - Ripe Alphonso mangoes
+- wheat.jpg: Melissa Askew (Unsplash) - Golden wheat crops and grains
+- onions.jpg: K8 (Unsplash) - Fresh shallot and red onions
+- potatoes.jpg: Lars Blankers (Unsplash) - Farm-fresh harvested potatoes
+- pomegranate.jpg: NordWood Themes (Unsplash) - Ripe red pomegranates
+- herbs.jpg: Eiliv Aceron (Unsplash) - Fresh coriander and mint bunch
+- rice.jpg: Pierre Bamin (Unsplash) - Natural aromatic rice grains
+- strawberries.jpg: Massimiliano Donghi (Unsplash) - Fresh picked strawberries
+- category-vegetables.jpg: Anna Pelzer (Unsplash) - Fresh organic vegetables
+- category-fruits.jpg: Brooke Lark (Unsplash) - Orchard fresh fruits
+- category-grains.jpg: Melissa Askew (Unsplash) - Whole grains and harvest
+- category-dairy.jpg: Mae Mu (Unsplash) - Farm fresh milk and butter
+- category-herbs.jpg: Joanna Kosinska (Unsplash) - Natural culinary herbs
+- placeholder-product.jpg: Anne Preble (Unsplash) - Fresh market harvest wooden crate

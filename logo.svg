@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Rounded Shield / Soil Foundation -->
+  <rect width="48" height="48" rx="12" fill="#1F4D3A"/>
+  <!-- Sunrise / Field Rays -->
+  <path d="M24 14C29.5228 14 34 18.4772 34 24C34 29.5228 29.5228 34 24 34C18.4772 34 14 29.5228 14 24" stroke="#E8A33D" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="2 4" opacity="0.85"/>
+  <!-- Golden Harvest Sun -->
+  <circle cx="24" cy="20" r="4.5" fill="#E8A33D"/>
+  <!-- Twin Organic Sprout Leaves -->
+  <path d="M24 36V22C24 17 29 16 32 16C32 20 29 25 24 26" stroke="#8AE39C" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24 28C20 27 16 23 16 19C19 19 23 20 24 24" stroke="#D1FAE5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

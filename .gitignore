@@ -1,0 +1,16 @@
+# Maven target build artifacts
+target/
+build/
+*.war
+
+# Sensitive database configuration
+src/main/resources/db.properties
+
+# Eclipse IDE metadata
+.classpath
+.project
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
